@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C programming**
 
-- 📫 How to reach me **kushalt1601@gamilcom**
+- 📫 How to reach me **kushalt1601@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
