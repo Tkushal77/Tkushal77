@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif)
+<!--![MasterHead](https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif) -->
 <h1 align="center">Hi 👋, I'm T KUSHAL</h1>
 <h3 align="center">Hello everyone! I am a passionate student fascinated by Embedded Systems and it's development. I have a strong interest in the Embedded C Programming , Microcontrollers(PIC16F877A , Arduino Uno) and Communication Protocols(UART , I2C , SPI , CAN)."</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6dc74ff794a26aa862170f10fee2de4c0d3f8e607c819bf47054e31bdeb1ea37/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313130302f312a5f453264566d704a72584d61744452695077306879672e676966"> 
